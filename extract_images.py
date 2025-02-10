@@ -1,7 +1,7 @@
 import fitz
 import os
 import argparse
-
+ 
 def extract_images_from_pdf(pdf_path, output_folder):
     doc = fitz.open(pdf_path)
     for i, page in enumerate(doc):
