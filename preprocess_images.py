@@ -1,7 +1,7 @@
 import cv2
 import os
 import argparse
-
+ 
 def preprocess_image(image_path, output_path):
     img = cv2.imread(image_path, cv2.IMREAD_COLOR)
     img_resized = cv2.resize(img, (224, 224))
