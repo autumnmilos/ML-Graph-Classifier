@@ -1,7 +1,7 @@
 # ML-Graph-Classifier
 
 ## Overview
-GraphSourceDetector is a machine learning-based tool that extracts graphs from research papers (PDFs) and identifies the software used to generate them (e.g., Matplotlib, Excel, Seaborn, etc.).
+ML-Graph-Classifier is a machine learning-based tool that extracts graphs from research papers (PDFs) and identifies the software used to generate them (e.g., Matplotlib, Excel, Seaborn, etc.).
 
 ## Features
 - Extract images from PDFs automatically
