@@ -2,7 +2,7 @@ import tensorflow as tf
 import cv2
 import numpy as np
 import argparse
-
+ 
 def predict(image_path, model_path):
     model = tf.keras.models.load_model(model_path)
     img = cv2.imread(image_path)
