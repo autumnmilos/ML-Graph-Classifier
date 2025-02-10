@@ -70,6 +70,4 @@ GraphSourceDetector/
 ## Contributing
 Feel free to fork and contribute by submitting a pull request.
 
-## License
-MIT License
 
